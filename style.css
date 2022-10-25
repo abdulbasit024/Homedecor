@@ -106,7 +106,7 @@ header {
   transform: scale(1.1);
 }
 .heading {
-  font-family: lufga;
+  font-family: myfont;
   font-size: 30px;
   text-align: center;
   margin: 30px auto;
@@ -296,7 +296,7 @@ header {
   align-items: center;
 }
 .featuresContainer {
-  font-family: lufga;
+  font-family: myfont;
   display: flex;
   background-color: white;
   opacity: 90%;
