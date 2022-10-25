@@ -465,7 +465,7 @@ footer span {
   display: flex;
   justify-content: center;
   align-items: center;
-  font-family: lufga;
+  font-family: myfont;
   background-color: rgb(24, 24, 24);
   height: 40px;
 }
