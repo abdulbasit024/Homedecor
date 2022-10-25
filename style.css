@@ -19,7 +19,7 @@ header {
 }
 .navContainer {
   display: flex;
-  font-family: lufga;
+  font-family: myfont;
   align-items: center;
   justify-content: space-between;
   padding: 20px 80px;
