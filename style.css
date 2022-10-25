@@ -400,7 +400,7 @@ header {
   text-align: center;
   font-size: 14px;
   color: rgb(145, 145, 145);
-  font-family: lufga;
+  font-family: myfont;
   font-weight: 200;
 }
 .newsLetterContainer input:focus {
